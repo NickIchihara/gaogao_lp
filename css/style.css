@@ -8,10 +8,19 @@ header.masthead {
 .page-section{background-color: lemonchiffon;}
 .page-section1{background-color: white;}
 
-.TJF{width: 200px;}
+.TJF{width: 200px;
+    height: 135px;
+    object-fit: cover;}
 
-.sendai{width:200px;}
+.sendai{width:200px;
+height: 135px;
+object-fit: cover;}
 
-.Flare{width:200px;}
+.Flare{width:200px;
+    height: 135px;
+    object-fit: cover;}
 
 .toyotsu{width: 700px;}
+
+.rounded-circle{object-fit: contain;
+background-color: white;}

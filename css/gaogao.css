@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
  */
 html{
-  /* scroll-behavior: smooth; */
+  scroll-behavior: smooth;
 }
 
 body {
